@@ -1,0 +1,12 @@
+{
+  "labels": ["Jan", "Feb", "Mar", "Apr", "May", "Jun"],
+  "datasets": [
+    {
+      "label": "Active users",
+      "data": [152, 201, 244, 147, 114, 187],
+      "fill": true,
+      "borderColor": "blueviolet",
+      "backgroundColor": "blueviolet"
+    }
+  ]
+}

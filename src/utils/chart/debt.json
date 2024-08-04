@@ -1,0 +1,12 @@
+{
+  "labels": ["2020", "2021", "2022", "2023"],
+  "datasets": [
+    {
+      "label": "Debt",
+      "data": [340000, 321000, 292000, 265100],
+      "fill": true,
+      "borderColor": "red",
+      "backgroundColor": "red"
+    }
+  ]
+}

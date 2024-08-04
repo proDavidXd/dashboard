@@ -1,0 +1,12 @@
+{
+  "labels": ["2020", "2021", "2022", "2023"],
+  "datasets": [
+    {
+      "label": "Sales",
+      "data": [68660.15, 72551.1, 77421.55, 83587.25],
+      "fill": true,
+      "borderColor": "#00FF00",
+      "backgroundColor": "#00FF00"
+    }
+  ]
+}

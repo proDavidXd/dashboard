@@ -1,0 +1,26 @@
+{
+  "labels": ["2020", "2021", "2022", "2023"],
+  "datasets": [
+    {
+      "label": "Total profits",
+      "data": [68660.15, 72551.1, 77421.55, 83587.25],
+      "fill": true,
+      "borderColor": "#00F",
+      "backgroundColor": "#00F"
+    },
+    {
+      "label": "Bills",
+      "data": [32388.3, 35683.86, 39453.72, 41402.58],
+      "fill": true,
+      "borderColor": "#F00",
+      "backgroundColor": "#F00"
+    },
+    {
+      "label": "Revenue",
+      "data": [36271.85, 36867.24, 37967.83, 42184.67],
+      "fill": true,
+      "borderColor": "#0F0",
+      "backgroundColor": "#0F0"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.title {
+  @apply text-3xl md:text-4xl font-bold;
+}
+
+nav {
+  border-bottom: 2px solid #ccc;
+  padding: 1.5rem;
+}
+
+.fact {
+  @apply p-4 rounded-lg;
+  border: 2px solid #ccc;
+  padding: 1rem;
+}

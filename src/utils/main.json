@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "Total revenue",
+    "value": "$42,184.67",
+    "unit": "USD",
+    "icon": "/money.svg",
+    "grow": 1.44,
+    "growType": "+",
+    "link": "/revenue"
+  },
+  {
+    "id": 2,
+    "title": "Suscriptors",
+    "value": "827",
+    "unit": "suscribers",
+    "icon": "/community.svg",
+    "grow": 1.08,
+    "growType": "+",
+    "link": "/suscribers"
+  },
+  {
+    "id": 3,
+    "title": "Sales",
+    "value": "$83,587.25",
+    "unit": "USD",
+    "icon": "/sales.svg",
+    "grow": 3.68,
+    "growType": "+",
+    "link": "/sales"
+  },
+  {
+    "id": 4,
+    "title": "Active users",
+    "value": "187",
+    "unit": "active users",
+    "icon": "/active.svg",
+    "grow": 1.63,
+    "growType": "+",
+    "link": "/active"
+  },
+  {
+    "id": 5,
+    "title": "Debt",
+    "value": "$265,100.00",
+    "unit": "USD",
+    "icon": "/debt.svg",
+    "grow": 0.2,
+    "growType": "-",
+    "link": "/debt"
+  }
+]

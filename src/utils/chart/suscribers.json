@@ -1,0 +1,12 @@
+{
+  "labels": ["2020", "2021", "2022", "2023"],
+  "datasets": [
+    {
+      "label": "Total subscriptions",
+      "data": [502, 509, 630, 824],
+      "fill": true,
+      "borderColor": "blue",
+      "backgroundColor": "blue"
+    }
+  ]
+}
